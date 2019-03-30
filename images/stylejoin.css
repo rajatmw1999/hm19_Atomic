@@ -4,7 +4,7 @@ body{
     margin:0;
 }
 .middle-div{
-  background-color:#222831;
+  background-color:#a8d8ea;
 }
 .web-logo{
   border-radius:100%;
@@ -13,7 +13,7 @@ body{
 }
 .top-container{
      justify-content: space-between;
-     background-color:#222831;
+     background-color: #fcbad3;
 }
 a{
   display:inline-block;
@@ -37,7 +37,7 @@ a{
 }
 .intro{
   font-size: 2.7rem;
-color:#00adb5;
+  color:white;
   margin-top:200px;
   margin-bottom: 40px;
 }
@@ -46,7 +46,7 @@ color:#00adb5;
   margin:20px auto 0 auto;
   diplay:none;
   width:70%;
-color:#eeeeee;
+  color:#eeeeee;
   line-height: 40px;
 }
 hr{
@@ -63,7 +63,7 @@ hr{
 .intern{
   font-size: 500px
   font-weight: 400;
-  color:powderblue;
+  color:#00adb5;
   margin-top:100px;
   margin-bottom: 40px;
 }
@@ -74,10 +74,10 @@ hr{
 }
 
 .bottom-container{
-  background-color:#1b1919;
-    padding-top: 80px;
-    margin:0;
-    padding-bottom: 0;
+background-color:#1b1919;
+  padding-top: 80px;
+  margin:0;
+  padding-bottom: 0;
 }
 .footer-link{
   padding-right: 40px;
@@ -106,7 +106,7 @@ hr{
 #interns{
   font-size: 500px
   font-weight: 400;
-  color:powderblue;
+  color:#00adb5;
   margin-bottom: 40px;
 }
 .tab-row{
